@@ -53,14 +53,21 @@ The model focuses on the handoffs between five participants:
 
 **Modeling note:** The exception paths are explicit modeling assumptions added to make the workflow analyzable. The course scenario does not specify a payment cancellation policy or detailed exception-handling rules. The diagram therefore models follow-up and rechecking without assuming an unsupported cancellation process.
 
-## 6. Process flowchart
+## 6. Original process flowchart
 
-The flowchart shows the sequence of activities, responsible participants, decision points, and exception paths from order placement through final fulfillment.
+The following is the original flowchart exported from Lucidchart. It shows the sequence of activities, responsible participants, decision points, and exception paths from order placement through final fulfillment.
 
-[Open the interactive flowchart in Lucidchart](https://lucid.app/lucidchart/36c1ae40-1a47-4819-805f-63889a5205e3/edit?viewport_loc=-957%2C873%2C2289%2C1675%2C0_0&invitationId=inv_33bdba97-f296-4e62-a267-c171659295b9)
+![Original QuickService Delivery flowchart](diagrams/QuickService%20Delivery%20%E2%80%93%20Order%20Management%20Process%20Flowchart.png)
 
-## 7. Author
+[Open the interactive diagram in Lucidchart](https://lucid.app/lucidchart/36c1ae40-1a47-4819-805f-63889a5205e3/edit?viewport_loc=-957%2C873%2C2289%2C1675%2C0_0&invitationId=inv_33bdba97-f296-4e62-a267-c171659295b9)
+
+## 7. Project files
+
+- [Business Process Analysis — PDF](QuickService_Business_Process_Analysis_Rodrigo_Garza.pdf)
+- [Original flowchart — PNG](../diagrams/QuickService%20Delivery%20%E2%80%93%20Order%20Management%20Process%20Flowchart.png)
+- [GitHub repository](https://github.com/rogarzag/business-process-mapping-quickservice-delivery)
+
+## 8. Author
 
 **Rodrigo Garza García**  
-[GitHub profile](https://github.com/rogarzag)  
-[Project repository](https://github.com/rogarzag/business-process-mapping-quickservice-delivery)
+[GitHub profile](https://github.com/rogarzag)

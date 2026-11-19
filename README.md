@@ -6,7 +6,7 @@
 **GitHub repository:** [business-process-mapping-quickservice-delivery](https://github.com/rogarzag/business-process-mapping-quickservice-delivery)  
 **Project focus:** Business Analysis · Process Mapping · Process Participants & Handoffs · Exception Paths  
 **Project context:** IBM Business Analysis coursework; academic process-mapping case  
-**Data / case coverage:** End-to-end order journey from placement to pickup or home delivery  
+**Data / case covered:** End-to-end order journey from placement to pickup or home delivery  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
 ## Project Overview
@@ -60,4 +60,4 @@ The exception paths are explicit modeling assumptions added to make the workflow
 
 ## Conclusion
 
-The flowchart makes the order-management workflow, five participants, four process stages, and principal control points visible in one model. It also distinguishes documented process steps from proposed exception handling where the source case is incomplete. The model supports process discussion and validation; it does not claim that the proposed exception paths are confirmed operating policy.
+The flowchart shows the order process, the five participants, the four main stages, and the key decision points in one view. It also distinguishes documented process steps from proposed exception handling where the source case is incomplete. The model supports process discussion and validation; it does not claim that the proposed exception paths are confirmed operating policy.

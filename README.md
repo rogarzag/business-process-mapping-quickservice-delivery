@@ -4,7 +4,7 @@
 **Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
 **Portfolio page:** [business process mapping quickservice delivery](https://rogarzag.github.io/projects/quickservice-delivery/)  
 **GitHub repository:** [business-process-mapping-quickservice-delivery](https://github.com/rogarzag/business-process-mapping-quickservice-delivery)  
-**Project focus:** Business Analysis · Process Mapping · Stakeholder & Responsibility Mapping · Exception Analysis  
+**Project focus:** Business Analysis · Process Mapping · Process Participants & Handoffs · Exception Paths  
 **Project context:** IBM Business Analysis coursework; academic process-mapping case  
 **Data / case coverage:** End-to-end order journey from placement to pickup or home delivery  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)

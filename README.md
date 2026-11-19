@@ -6,7 +6,7 @@
 **GitHub repository:** [business-process-mapping-quickservice-delivery](https://github.com/rogarzag/business-process-mapping-quickservice-delivery)  
 **Project focus:** Business Analysis · Process Mapping · Process Participants & Handoffs · Exception Paths  
 **Project context:** IBM Business Analysis coursework; academic process-mapping case  
-**Data / case covered:** End-to-end order journey from placement to pickup or home delivery  
+**Data / project coverage:** End-to-end order journey from placement to pickup or home delivery  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
 ## Project Overview

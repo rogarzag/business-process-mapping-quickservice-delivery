@@ -2,7 +2,7 @@
 
 **Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
 **Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
-**Portfolio page:** [business process mapping quickservice delivery](https://rogarzag.github.io/projects/quickservice-delivery/)  
+**Portfolio page:** [QuickService Delivery](https://rogarzag.github.io/projects/quickservice-delivery/)  
 **GitHub repository:** [business-process-mapping-quickservice-delivery](https://github.com/rogarzag/business-process-mapping-quickservice-delivery)  
 **Project focus:** Business Analysis · Process Mapping · Process Participants & Handoffs · Exception Paths  
 **Project context:** IBM Business Analysis coursework; academic process-mapping case  

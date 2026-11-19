@@ -57,10 +57,6 @@ The exception paths are explicit modeling assumptions added to make the workflow
 - **Flowchart notation:** start/end events, process activities, decision diamonds, and directional arrows.
 - **Process analysis:** identification of participants, handoffs, decision points, and exception paths.
 
----
-
-**Author:** Rodrigo Garza García  
-[GitHub profile](https://github.com/rogarzag)
 
 ## Conclusion
 
